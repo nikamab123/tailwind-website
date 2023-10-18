@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tailwind-website/static/css/main.7f8d5d22.css",
-    "main.js": "/tailwind-website/static/js/main.e941238a.js",
-    "static/js/787.ecf49521.chunk.js": "/tailwind-website/static/js/787.ecf49521.chunk.js",
-    "static/media/picture3.png": "/tailwind-website/static/media/picture3.8493e7b55099ed4894b8.png",
-    "static/media/picture2.png": "/tailwind-website/static/media/picture2.fded6bc85621f929e952.png",
-    "static/media/picture1.png": "/tailwind-website/static/media/picture1.791424f105b584b3fd8a.png",
-    "static/media/student.png": "/tailwind-website/static/media/student.638f2e5c28d80d9baecf.png",
-    "static/media/teacher.png": "/tailwind-website/static/media/teacher.5f5c19e94cb4ce66ae9e.png",
-    "index.html": "/tailwind-website/index.html",
-    "main.7f8d5d22.css.map": "/tailwind-website/static/css/main.7f8d5d22.css.map",
-    "main.e941238a.js.map": "/tailwind-website/static/js/main.e941238a.js.map",
-    "787.ecf49521.chunk.js.map": "/tailwind-website/static/js/787.ecf49521.chunk.js.map"
+    "main.css": "/static/css/main.7f8d5d22.css",
+    "main.js": "/static/js/main.f50f3735.js",
+    "static/js/787.ecf49521.chunk.js": "/static/js/787.ecf49521.chunk.js",
+    "static/media/picture3.png": "/static/media/picture3.8493e7b55099ed4894b8.png",
+    "static/media/picture2.png": "/static/media/picture2.fded6bc85621f929e952.png",
+    "static/media/picture1.png": "/static/media/picture1.791424f105b584b3fd8a.png",
+    "static/media/student.png": "/static/media/student.638f2e5c28d80d9baecf.png",
+    "static/media/teacher.png": "/static/media/teacher.5f5c19e94cb4ce66ae9e.png",
+    "index.html": "/index.html",
+    "main.7f8d5d22.css.map": "/static/css/main.7f8d5d22.css.map",
+    "main.f50f3735.js.map": "/static/js/main.f50f3735.js.map",
+    "787.ecf49521.chunk.js.map": "/static/js/787.ecf49521.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f8d5d22.css",
-    "static/js/main.e941238a.js"
+    "static/js/main.f50f3735.js"
   ]
 }
