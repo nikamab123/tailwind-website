@@ -8,7 +8,7 @@ export default function App() {
     <Router>
       <div>
         <Routes> 
-          <Route path="/" element={<Home />} /> 
+          <Route path="/" element={<Home/>} /> 
           {/* <Route path="/details" element={<Details />} />  */}
         </Routes>
       </div>
